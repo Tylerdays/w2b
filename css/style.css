@@ -1,0 +1,27 @@
+html{
+    background-color: brown;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#duck{
+    height: 100px;
+}
+h2{
+    font-size: 20px;
+    color: aqua;
+    line-height: 5em;
+    
+}
+main > div{
+    font-size: 15px;
+    border: 1rem solid black;
+}
+H1{
+    font-size: 2vw;
+}
+section{
+    font-size: 10vh;
+}
+section > p{
+    font-size: 30%;
+}
